@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Noto Sans TC", sans-serif;
   margin: auto;
+  font-family: "Noto Sans TC", sans-serif;
   background: linear-gradient(135deg, #fff 0%, #d0e8eb 100%);
 }
